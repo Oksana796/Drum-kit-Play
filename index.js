@@ -41,7 +41,6 @@ for (let i = 0; i < document.querySelectorAll(".drum").length; i++) {
       default:
         console.log(buttonInnerHTML);
     }
-
     //this.style.color = "white";
   }
 }
